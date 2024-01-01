@@ -1,6 +1,6 @@
 # Biscoito da Sorte
 
-Site estático feito para treinar e consolidar conhecimentos básicos de HTML e CSS. A criação partiu da regra do mobile first, medidas flexíveis, animações, etc.
+Site estático feito para treinar e consolidar conhecimentos básicos de HTML e CSS. A criação partiu da regra do mobile first, medidas flexíveis, animações, responsividade, etc.
 
 <hr>
 
