@@ -1,4 +1,4 @@
-# Biscoito da Sorte
+# Explore sem Limites
 
 Site estático feito para treinar e consolidar conhecimentos básicos de HTML e CSS. A criação partiu da regra do mobile first, medidas flexíveis, animações, responsividade, etc.
 
